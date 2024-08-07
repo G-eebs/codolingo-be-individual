@@ -4,6 +4,9 @@ CodoLingo is an Android-based app designed to teach beginners the fundamentals o
 
 This app uses MongoDB for data storage and Express for building the backend server. 
 
+The original repository is here: https://github.com/G-eebs/codolingo-be
+This repo was created to ensure colleagues work was not affected.
+
 ## Getting Started
 
 ### Prerequisites
@@ -14,7 +17,7 @@ Ensure you have Node.js and npm installed on your machine. You will also need Mo
 
 1. Clone the Repository: Clone the CodoLingo backend repository from GitHub:
 
-   `git clone https://github.com/G-eebs/codolingo-be`
+   `git clone https://github.com/G-eebs/codolingo-be-individual`
 
 2. Install Dependencies: Navigate to the project directory and install the required dependencies:
 
